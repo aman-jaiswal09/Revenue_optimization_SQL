@@ -1,4 +1,5 @@
 # Pizzeria-Business-Performance-Analysis
+<br>
 Sales Trends: Analyze daily, weekly, and monthly sales patterns to identify peak times and seasonal fluctuations.
 <br>
 Product Performance: Evaluate the best-selling pizzas and identify underperforming items to optimize the menu.
